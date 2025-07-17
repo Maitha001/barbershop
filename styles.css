@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    color: aliceblue;
+}
+nav {
+    background-color: rgb(0, 255, 170);
+    color: bisque;
+    text-align: center;
+    padding: 10px 0;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+
+}
+nav a:hover{
+    color: blueviolet;
+}
+main{
+    text-align: center;
+    padding: 20px;
+}
+main img {
+    width: 900px;
+    height: 200px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+main table {
+    width: 900px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+.table-img{
+    width: 200px;
+    height: 200px;
+}
